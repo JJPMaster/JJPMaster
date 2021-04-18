@@ -8,7 +8,6 @@ You can find my Wikimedia account [here](https://en.wikipedia.org/wiki/User:JJPM
 I primarily work with Python and JavaScript (especially Node.JS), but sometimes you may catch me using PHP, Ruby, or maybe even C#!
 
 #### Finally...
-I play [https://en.wikipedia.org/wiki/Celeste_(video_game)](Celeste), if you weren't able to tell that by my profile picture.
 I play [Celeste](https://en.wikipedia.org/wiki/Celeste_(video_game)), if you weren't able to tell that by my profile picture.
 
 Okay, ***bye!***
