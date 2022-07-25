@@ -3,7 +3,7 @@ I primarily contribute to the MediaWiki software (that's what powers Wikipedia) 
 
 You can find my Wikimedia account [here](https://en.wikipedia.org/wiki/User:JJPMaster), and my Uncyclopedia account [here](https://en.uncyclopedia.co/wiki/User:JJPMaster).
 
-I am the only person who works for [Onach Labs](https://github.com/onach-labs), which is the name under which two of my most important projects were released.
+**I am the only person who works for [Onach Labs](https://github.com/onach-labs), which is the name under which two of my most important projects were released.**
 
 #### What about languages?
 I primarily work with Python and JavaScript (especially Node.JS), but sometimes you may catch me using PHP, Ruby, or maybe even C#!
